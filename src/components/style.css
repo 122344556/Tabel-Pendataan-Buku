@@ -1,0 +1,25 @@
+h2.title {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+.custom-columns {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 5px;
+    margin-left: 10px;
+  }
+  
+  .custom-column {
+    flex: 0 0 50%; /* Set lebar kolom menjadi 50% */
+    margin-left: 40px;
+    margin-top: 25px;
+  }
+
+  gambar{
+    text-align: center;
+    width: 90px;
+    height: 100px;
+  }
+  
